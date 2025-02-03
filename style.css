@@ -13,6 +13,8 @@ h1 {
 font-size: 2.5rem;
 color: #3a4660;
 font-weight: 600;
+padding:10px;
+background-color: #3a4660;
 }
 
 h2 {
@@ -25,6 +27,8 @@ background-color: #3a4660;
 h3 {
 font-size: 1.5rem;
 color: #3a4660;
+padding:10px;
+background-color: #3a4660;
 }
 
 a {
